@@ -1,0 +1,14 @@
+
+.buttonspace{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.cabecalho{
+    align-self: center;
+   padding: 10px;
+    
+}
+
+
