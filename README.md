@@ -1,3 +1,2 @@
 # app-autov1
-App para cadastramento de peças
-App atualização
+App para cadastramento de peças (em desenvolvimento)
