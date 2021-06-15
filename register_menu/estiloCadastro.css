@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: arial, sans-serif;
+  }
+
+  .iconTop{ display: flex;
+    height: 85px;
+    width: 85px;
+
+  }
+  .logo{
+   border-radius: 100px;
+  }
+
+.container{
+    display: flex;
+    background-color: #0000DF;
+    font-size: 19px;
+    font-weight: 700;
+    flex-direction:column;
+    min-height: 100vh;
+
+}
+
+.cadastrarText{
+  display: flex;
+  font-size: 36px;
+  color: white;  
+   
+  }
+  
+.cadastrarInputs{
+ 
+  font-size: 36px;
+  color: white;
+     
+}
+.cadastrarInputs1{
+ 
+  font-size: 36px;
+  color: white;
+  width: 220px;
+  align-self: center;
+     
+}
+
+.buttonSave{
+    display: flex;
+    color: #0000DF;
+    font-size: 36px;
+    width: 150px;
+    height: 80px;
+    align-items: center;   
+    border-radius: 81px ;
+    justify-content: center;
+
+  }
+
+.buttonSave:hover{
+ 
+  background-color: black;
+  border: none;
+  transition-duration: 0.4s ;
+  }
+
+  
+.input{
+  height: 40px;
+  width: 500px;
+  margin: 5px;
+  font-size: 30px;
+  
+  
+}
+
+
+

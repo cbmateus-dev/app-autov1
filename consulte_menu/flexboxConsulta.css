@@ -1,0 +1,43 @@
+
+.buttonspace{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cabecalho{
+    align-self: center;
+    padding: 10px;
+    
+}
+.iconTop{
+    display: flex;
+}
+
+.cadastrarText{
+    padding: 20px;
+    justify-content: center;
+}
+
+.cadastrarInputs{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+
+
+.table{
+    display: flex;
+    margin-left: 10px;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+
+
+
+

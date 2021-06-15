@@ -1,0 +1,48 @@
+
+.buttonspace{
+    display: flex;
+    justify-content: center;
+    
+}
+.cabecalho{
+    align-self: center;
+   padding: 10px;
+    
+}
+.iconTop{
+    display: flex;
+}
+
+.cadastrarText{
+    padding: 20px;
+    justify-content: center;
+}
+
+.cadastrarInputs{
+    
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+   
+}
+
+.buttonSave{
+    align-self: center;
+       
+}
+.input{
+    border-radius: 30px;
+    }
+
+.buttonAlinhar{ 
+    display: flex;
+   padding: 10px;
+    align-self: center;
+
+
+}
+
+
+
+
+
